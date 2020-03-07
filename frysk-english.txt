@@ -10,104 +10,148 @@ Alfabet - Alphabet
 Alle - All
 Alles - Everything
 Barre - To happen
+Befolkingstichtens - Population density
 Bern - Children
 Betelje - To pay
+Bytsje - Somewhat
+       in ~ - a bit
 Blikstiender - Holy Shit
 Boarne - Source
 Boartsje - To play
+Boedisme - Buddhism
 Boek - Book
-Brûke - To use
 Bôle - Bread
+Brûke - To use
 De - The
 De - The
 Dei - Day
-Der - There
-Drinke - To drink
-Dyn - Your
+Demografy- Demographics
 Dêr - There
+Dêrmei - Thus
+Dialekt - Dialect
+Dyn - Your
+Drinke - To drink
 Dû - You
+Eilân - Island
+Ek - also, too
 En - And
+Falle - To fall
 Famke - Girl
 Fan - Of
+Fansels - Obviously, of course, naturally, "yeah right"
+Fierder - Further
+Fierders - Furthermore
+Fyn - Fine
 Fine - To find
 Foar - For, in front of, before
 Folslein - Completely, total
 Frou - Woman
 Fuort - Away
 Fuortendalik - Immediately
-Gijn - None, not
+Giel - Yellow
+Gjin - None, not
+Godstsjinsten - Religion
+Goud - Gold
+Gouden - Golden
 Groep - Group, gang
 Grut - Big, great
 Har - Hers
 Harren - Theirs
 Hast - Almost
 Hawwe - To have
-Hjoed - Today
-Hwat - What
 Hy - He
 Hynder - Horse
+Hindoeïsme - Hinduism
+Hjerst - Fall, autumn
+Hjoed - Today
+Hwat - What
 Hûn - Dog
 Hûs - House
 Ierdbei - Strawberry
 Ik - I
 In - A, an
+Ynwenner - Resident
+Islam - Islam
 It - The
 Ite - To eat
 Iten - Food, dinner
+Jaïnisme - Jainism
 Jim - You (plural)
 Jo - You (respectful)
+Joadendom - Judaism
 Jonkje - Boy
 Kin - Can
 Kinne - To be able to
 Ko - Cow
 Komme - To come
 Kryptofaluta - Cryptocurrency
+Kristendom - Christianity
 Lânseigen - Land owner
-          — taal - Native language
+          ~ taal - Native language
+Leauwe - Faith
 Let - Late
 Lyts - Small, Little
 Man - Man
 Man - Man
 Mei - With
 Meitsje - To make
-Moatte - Must
 My - Me
+Miljoen
 Myn - Mine
+Moatte - Must, to have to, should
 Namme - Name
+Natoerreligy - Ethnic religion
 Neat - None, nothing
 Nee - No
 Nei - To
 Net - Not
 Nije - New
 Nijsgjirrich - Interesting, curious
+Noardwestlike - Northwestern
+Nuver - Strange, odd
 Oant - Until, up to
 Oare - Other
 Ôfbrând - Burnt down
 Omgean - To handle
+Op - On, up, upon
 Pakke - To pack
 Provinsje - Province
+Religy - Religion
+Republyk - Republic
 Rinne - To run
 Sa - So
 See - Sea
+Sy - She
+Sikhisme - Sikhism
+Syn - His
+Sjen - To see
 Skijn - Clean
 Skrapke - Comma
 Skûlnamme - Nickname
+Sleat - Ditch
 Somtiden - Sometimes
+Stâd - City
 Stadich - Slow
 Stadichoan - Slowly
-Sjen - To see
-Sy - She
-Syn - His
+Taal - Language
+Tema - Theme
+Ticht - Close, dense
+Tichtbefolke - Densley populated
 Tinke - To think
 Togearre - Together
+Tonge - Tongue
 Tsiis - Cheese
 Tsjuster - Dark
+Wer - Again
+Wêrom - Why
+West - West
+Westfrysk - West Frisian
+West-Fryslân - West Friesland
 Wetter - Water
+Wêze - To be
 Witte - To know
 Wolkom - Welcome
 Wolle - To want
 Wolle - To want
-Wer - Again
-Wêrom - Why
-Wêze - To be
+Wrâld - World
 Wurd - Word
