@@ -80,6 +80,7 @@ Jim - You (plural)
 Jo - You (respectful)
 Joadendom - Judaism
 Jonkje - Boy
+Keunst - Art
 Kin - Can
 Kinne - To be able to
 Ko - Cow
@@ -90,6 +91,7 @@ Lânseigen - Land owner
           ~ taal - Native language
 Leauwe - Faith
 Let - Late
+Literatuer - Literature
 Lyts - Small, Little
 Man - Man
 Man - Man
@@ -99,6 +101,7 @@ My - Me
 Miljoen
 Myn - Mine
 Moatte - Must, to have to, should
+Muzyk - Music
 Namme - Name
 Natoerreligy - Ethnic religion
 Neat - None, nothing
@@ -137,6 +140,7 @@ Taal - Language
 Tema - Theme
 Ticht - Close, dense
 Tichtbefolke - Densley populated
+Timpel - Temple
 Tinke - To think
 Togearre - Together
 Tonge - Tongue
