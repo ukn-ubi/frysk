@@ -3,7 +3,8 @@ ___________                     __               ___________              .__  .
  |    __) \_  __ <   |  |/  ___/  |/ /   ______   |    __)_ /    \  / ___\|  | |  |/  ___/  |  \ 
  |     \   |  | \/\___  |\___ \|    <   /_____/   |        \   |  \/ /_/  >  |_|  |\___ \|   Y  \
  \___  /   |__|   / ____/____  >__|_ \           /_______  /___|  /\___  /|____/__/____  >___|  /
-     \/           \/         \/     \/                   \/     \//_____/              \/     \/ 
+     \/           \/         \/     \/                   \/     \//_____/              \/     \/
+
 Al - Already
 Alfabet - Alphabet
 Alle - All
@@ -12,6 +13,7 @@ Barre - To happen
 Bern - Children
 Betelje - To pay
 Blikstiender - Holy Shit
+Boarne - Source
 Boartsje - To play
 Boek - Book
 Brûke - To use
@@ -34,6 +36,7 @@ Frou - Woman
 Fuort - Away
 Fuortendalik - Immediately
 Gijn - None, not
+Groep - Group, gang
 Grut - Big, great
 Har - Hers
 Harren - Theirs
@@ -56,7 +59,11 @@ Jo - You (respectful)
 Jonkje - Boy
 Kin - Can
 Kinne - To be able to
+Ko - Cow
 Komme - To come
+Kryptofaluta - Cryptocurrency
+Lânseigen - Land owner
+          — taal - Native language
 Let - Late
 Lyts - Small, Little
 Man - Man
@@ -77,9 +84,14 @@ Oant - Until, up to
 Oare - Other
 Ôfbrând - Burnt down
 Omgean - To handle
+Pakke - To pack
+Provinsje - Province
 Rinne - To run
 Sa - So
+See - Sea
 Skijn - Clean
+Skrapke - Comma
+Skûlnamme - Nickname
 Somtiden - Sometimes
 Stadich - Slow
 Stadichoan - Slowly
@@ -91,8 +103,11 @@ Togearre - Together
 Tsiis - Cheese
 Tsjuster - Dark
 Wetter - Water
+Witte - To know
+Wolkom - Welcome
 Wolle - To want
 Wolle - To want
 Wer - Again
 Wêrom - Why
 Wêze - To be
+Wurd - Word
