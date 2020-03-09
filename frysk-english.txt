@@ -5,157 +5,170 @@ ___________                     __               ___________              .__  .
  \___  /   |__|   / ____/____  >__|_ \           /_______  /___|  /\___  /|____/__/____  >___|  /
      \/           \/         \/     \/                   \/     \//_____/              \/     \/
 
-Al - Already
-Alfabet - Alphabet
-Alle - All
-Alles - Everything
-Barre - To happen
-Befolkingstichtens - Population density
-Bern - Children
-Betelje - To pay
-Bytsje - Somewhat
-       in ~ - a bit
-Blikstiender - Holy Shit
-Boarne - Source
-Boartsje - To play
-Boedisme - Buddhism
-Boek - Book
-Bôle - Bread
-Brûke - To use
-De - The
-De - The
-Dei - Day
-Demografy- Demographics
-Dêr - There
-Dêrmei - Thus
-Dialekt - Dialect
-Dyn - Your
-Drinke - To drink
-Dû - You
-Eilân - Island
-Ek - also, too
-En - And
-Falle - To fall
-Famke - Girl
-Fan - Of
-Fansels - Obviously, of course, naturally, "yeah right"
-Fierder - Further
-Fierders - Furthermore
-Fyn - Fine
-Fine - To find
-Foar - For, in front of, before
-Folslein - Completely, total
-Frou - Woman
-Fuort - Away
-Fuortendalik - Immediately
-Giel - Yellow
-Gjin - None, not
-Godstsjinsten - Religion
-Goud - Gold
-Gouden - Golden
-Groep - Group, gang
-Grut - Big, great
-Har - Hers
-Harren - Theirs
-Hast - Almost
-Hawwe - To have
-Hy - He
-Hynder - Horse
-Hindoeïsme - Hinduism
-Hjerst - Fall, autumn
-Hjoed - Today
-Hwat - What
-Hûn - Dog
-Hûs - House
-Ierdbei - Strawberry
-Ik - I
-In - A, an
-Ynwenner - Resident
-Islam - Islam
-It - The
-Ite - To eat
-Iten - Food, dinner
-Jaïnisme - Jainism
-Jim - You (plural)
-Jo - You (respectful)
-Joadendom - Judaism
-Jonkje - Boy
-Keunst - Art
-Kin - Can
-Kinne - To be able to
-Ko - Cow
-Komme - To come
-Kryptofaluta - Cryptocurrency
-Kristendom - Christianity
-Lânseigen - Land owner
-          ~ taal - Native language
-Leauwe - Faith
-Let - Late
-Literatuer - Literature
-Lyts - Small, Little
-Man - Man
-Man - Man
-Mei - With
-Meitsje - To make
-My - Me
-Miljoen
-Myn - Mine
-Moatte - Must, to have to, should
-Muzyk - Music
-Namme - Name
-Natoerreligy - Ethnic religion
-Neat - None, nothing
-Nee - No
-Nei - To
-Net - Not
-Nije - New
-Nijsgjirrich - Interesting, curious
-Noardwestlike - Northwestern
-Nuver - Strange, odd
-Oant - Until, up to
-Oare - Other
-Ôfbrând - Burnt down
-Omgean - To handle
-Op - On, up, upon
-Pakke - To pack
-Provinsje - Province
-Religy - Religion
-Republyk - Republic
-Rinne - To run
-Sa - So
-See - Sea
-Sy - She
-Sikhisme - Sikhism
-Syn - His
-Sjen - To see
-Skijn - Clean
-Skrapke - Comma
-Skûlnamme - Nickname
-Sleat - Ditch
-Somtiden - Sometimes
-Stâd - City
-Stadich - Slow
-Stadichoan - Slowly
-Taal - Language
-Tema - Theme
-Ticht - Close, dense
-Tichtbefolke - Densley populated
-Timpel - Temple
-Tinke - To think
-Togearre - Together
-Tonge - Tongue
-Tsiis - Cheese
-Tsjuster - Dark
-Wer - Again
-Wêrom - Why
-West - West
-Westfrysk - West Frisian
-West-Fryslân - West Friesland
-Wetter - Water
-Wêze - To be
-Witte - To know
-Wolkom - Welcome
-Wolle - To want
-Wolle - To want
-Wrâld - World
-Wurd - Word
+Al - (adv) Already
+Alfabet - (n) Alphabet
+Alle - (adj) All
+Alles - (n) Everything
+Barre - (v) To happen
+Befolkingstichtens - (n) Population density
+Beynfloedzje - (v) To influence
+Bern - (n) Children
+Betelje - (v) To pay
+Betsjutte - (v) To mean
+Betsjutting - (n) Meaning
+Bytsje - (adj) Somewhat
+       in ~ - (adj) a bit
+Blikstiender - (interjection) Holy Shit
+Boarne - (n) Source
+Boartsje - (v) To play
+Boedisme - (n) Buddhism
+Boek - (n) Book
+Bôle - (n) Bread
+Brûke - (v) To use
+De - (article) The
+Dei - (n) Day
+Demografy- (n) Demographics
+Dêr - (n) There
+Dêrmei - (conj) Thus
+Dialekt - (n) Dialect
+Dyn - (adj) Your
+Dizze - (adj) This
+Drinke - (v) To drink
+Dû - (n) You
+Earne - (n) Somewhere
+Eilân - (n) Island
+Ek - (adv) also, too
+En - (conj) And
+Falle - (v) To fall
+Famke - (n) Girl
+Fan - (adj) Of
+Fansels - (adv) Obviously, of course, naturally, "yeah right"
+Fierder - (prep) Further
+Fierders - (conj) Furthermore
+Fyn - (adj) Fine
+Fine - (v) To find
+Foar - (adv) For, in front of, before
+Folslein - (adj) Completely, total
+Frou - (n) Woman
+Fuort - (prep) Away
+Fuortendalik - (adv) Immediately
+Giel - (adj) Yellow
+Gjin - (n) None, not
+Godstsjinsten - (n) Religion
+Goud - (n) Gold
+Gouden - (adj) Golden
+Grammatika - (n) Grammar
+Groep - (n) Group, gang
+Grut - (adj) Big, great
+Har - (pn) Hers
+Harren - (pn) Theirs
+Hast - (adv) Almost
+Hawwe - (v) To have
+Hy - (pn) He
+Hynder - (n) Horse
+Hindoeïsme - (n) Hinduism
+Hjerst - (n) Fall, autumn
+Hjoed - (n) Today
+Hwat - (interoggative) What
+Hûn - (n) Dog
+Hûs - (n) House
+Ierdbei - (n) Strawberry
+IJsko - (n) Ice Cream
+Ik - (pn) I
+In - (article) A, an
+Ynfloed - (n) Influence
+Ynwenner - (n) Resident
+Islam - (n) Islam
+It - (article) The
+Ite - (v) To eat
+Iten - (n) Food, dinner
+Jaïnisme - (n) Jainism
+Jim - (pn) You (plural)
+Jo - (pn) You (respectful)
+Joadendom - (n) Judaism
+Jonkje - (n) Boy
+Keunst - (n) Art
+Kinne - (v) To be able to
+Ko - (n) Cow
+Komme - (v) To come
+Kryptofaluta - (n) Cryptocurrency
+Kristendom - (n) Christianity
+Lân - (n) 1. Land
+          2. Country
+Lânseigen - (n) Land owner
+          ~ taal - (n) Native language
+Leauwe - (n) Faith
+Let - (n) Late
+Likernôch - (conj) Likewise
+Literatuer - (n) Literature
+Lyts - (adj) Small, Little
+Man - (n) Man
+Mar - (conj) But
+Mei - (prep) With
+Meitsje - (v) To make
+My - (pn) Me
+Miljoen - (n) million
+Myn - (pn) Mine
+Minske - (n) Human (being)
+Moatte - (v) Must, to have to, should
+Muzyk - (n) Music
+Namme - (n) Name
+Natoerreligy - (n) Ethnic religion
+Neat - (n) None, nothing
+Nee - (interjection) No
+Nei - (prep) To
+Net - (adv, adj) Not
+Nije - (adj) New
+Nijsgjirrich - (adj) Interesting, curious
+Noardwestlike - (adj) Northwestern
+Nuver - (adj) Strange, odd
+Oant - (prep) Until, up to
+Oare - (adj) Other
+Of - (conj) Or
+Ôfbrând - (v) Burnt down
+Omgean - (v) To handle
+Op - (prep) On, up, upon
+Pakke - (v) To pack
+Provinsje - (n) Province
+Religy - (n) Religion
+Republyk - (n) Republic
+Rinne - (v) To run
+Sa - (adv) So
+See - (n) Sea
+Sy - (n) She
+Sikhisme - (n) Sikhism
+Syn - (adj) His
+Sjen - (v) To see
+Skyn - (n) Shine
+Skine - (v) To shine
+Skjin - (adj) Clean
+Skrapke - (n) Comma
+Skûlnamme - (n) Nickname
+Sleat - (n) Ditch
+Somtiden - (adv) Sometimes
+Stâd - (n) City
+Stadich - (adj) Slow
+Stadichoan - (adv) Slowly
+Súd - (n) South
+Taal - (n) Language
+Tegearre - (adv) Together
+Tema - (n) Theme
+Ticht - (prep) Close, dense
+Tichtbefolke - (v) Densley populated
+Timpel - (n) Temple
+Tinke - (v) To think
+Tonge - (n) Tongue
+Tsiis - (n) Cheese
+Tsjuster - (adj) Dark
+Wer - (adv) Again
+Wêrom - (interoggative) Why
+West - (n) West
+Westfrysk - (adj) West Frisian
+West-Fryslân - (n) West Friesland
+Wetter - (n) Water
+Wêze - (v) To be
+Witte - (v) To know
+Wolkom - (interjection) Welcome
+Wolle - (v) To want
+Wrâld - (n) World
+Wurd - (n) Word
