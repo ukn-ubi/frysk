@@ -12,6 +12,7 @@ Alles - (n) Everything
 Barre - (v) To happen
 Befolkingstichtens - (n) Population density
 Beynfloedzje - (v) To influence
+Belje - (v) To call
 Bern - (n) Children
 Betelje - (v) To pay
 Betsjutte - (v) To mean
@@ -52,6 +53,7 @@ Folslein - (adj) Completely, total
 Frou - (n) Woman
 Fuort - (prep) Away
 Fuortendalik - (adv) Immediately
+Gewykst - (adj) Clever, cunning, sly
 Giel - (adj) Yellow
 Gjin - (n) None, not
 Godstsjinsten - (n) Religion
@@ -72,11 +74,14 @@ Hjoed - (n) Today
 Hwat - (interoggative) What
 Hûn - (n) Dog
 Hûs - (n) House
+Húsdokter - (n) 1. Family doctor
+                2. General practitioner
 Ierdbei - (n) Strawberry
 IJsko - (n) Ice Cream
 Ik - (pn) I
 In - (article) A, an
 Ynfloed - (n) Influence
+Yntelligint - (adj) Apt, Intelligent
 Ynwenner - (n) Resident
 Islam - (n) Islam
 It - (article) The
@@ -89,6 +94,7 @@ Joadendom - (n) Judaism
 Jonkje - (n) Boy
 Keunst - (n) Art
 Kinne - (v) To be able to
+Klachten - (n) Complaint
 Ko - (n) Cow
 Komme - (v) To come
 Kryptofaluta - (n) Cryptocurrency
@@ -128,7 +134,9 @@ Of - (conj) Or
 Ôfbrând - (v) Burnt down
 Omgean - (v) To handle
 Op - (prep) On, up, upon
+Ophâlde - (v) To stop
 Pakke - (v) To pack
+Produsint - (n) Producer
 Provinsje - (n) Province
 Religy - (n) Religion
 Republyk - (n) Republic
