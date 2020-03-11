@@ -14,6 +14,7 @@ Befolkingstichtens - (n) Population density
 Beynfloedzje - (v) To influence
 Belje - (v) To call
 Bern - (n) Children
+Beskermje - (v) To protect
 Betelje - (v) To pay
 Betsjutte - (v) To mean
 Betsjutting - (n) Meaning
@@ -25,6 +26,7 @@ Boartsje - (v) To play
 Boedisme - (n) Buddhism
 Boek - (n) Book
 Bôle - (n) Bread
+Bot - (adj) Very
 Brûke - (v) To use
 De - (article) The
 Dei - (n) Day
@@ -56,26 +58,34 @@ Fuortendalik - (adv) Immediately
 Gewykst - (adj) Clever, cunning, sly
 Giel - (adj) Yellow
 Gjin - (n) None, not
+Gjinien - (n) Nobody, no one, none
 Godstsjinsten - (n) Religion
 Goud - (n) Gold
 Gouden - (adj) Golden
 Grammatika - (n) Grammar
 Groep - (n) Group, gang
+Grûn - (n) Ground
 Grut - (adj) Big, great
+Hâlde - (v) To hold
+            ... fan - To love/like
 Har - (pn) Hers
 Harren - (pn) Theirs
 Hast - (adv) Almost
 Hawwe - (v) To have
 Hy - (pn) He
+Him - (pn) Him
 Hynder - (n) Horse
 Hindoeïsme - (n) Hinduism
 Hjerst - (n) Fall, autumn
 Hjoed - (n) Today
 Hwat - (interoggative) What
 Hûn - (n) Dog
+Hurd - (adj) Hard
 Hûs - (n) House
 Húsdokter - (n) 1. Family doctor
                 2. General practitioner
+Ien - (n) 1. One
+          2. Someone
 Ierdbei - (n) Strawberry
 IJsko - (n) Ice Cream
 Ik - (pn) I
@@ -84,9 +94,11 @@ Ynfloed - (n) Influence
 Yntelligint - (adj) Apt, Intelligent
 Ynwenner - (n) Resident
 Islam - (n) Islam
-It - (article) The
+It - (article) 1. The
+     (pn)      2. It
 Ite - (v) To eat
 Iten - (n) Food, dinner
+Ja - (interjection) Yes
 Jaïnisme - (n) Jainism
 Jim - (pn) You (plural)
 Jo - (pn) You (respectful)
@@ -106,6 +118,7 @@ Lânseigen - (n) Land owner
 Leauwe - (n) Faith
 Let - (n) Late
 Likernôch - (conj) Likewise
+Lilk - (adj) Angry
 Literatuer - (n) Literature
 Lyts - (adj) Small, Little
 Man - (n) Man
@@ -125,8 +138,10 @@ Nee - (interjection) No
 Nei - (prep) To
 Net - (adv, adj) Not
 Nije - (adj) New
-Nijsgjirrich - (adj) Interesting, curious
+Nijsgjirrich - (adj) 1. Interesting
+                     2. Curious
 Noardwestlike - (adj) Northwestern
+Nocht - (n) Pleasure
 Nuver - (adj) Strange, odd
 Oant - (prep) Until, up to
 Oare - (adj) Other
@@ -157,6 +172,7 @@ Somtiden - (adv) Sometimes
 Stâd - (n) City
 Stadich - (adj) Slow
 Stadichoan - (adv) Slowly
+Stjerre - (v) To die
 Súd - (n) South
 Taal - (n) Language
 Tegearre - (adv) Together
@@ -167,7 +183,9 @@ Timpel - (n) Temple
 Tinke - (v) To think
 Tonge - (n) Tongue
 Tsiis - (n) Cheese
-Tsjuster - (adj) Dark
+Tsjin - (prep) Against
+Tsjuster - (adj) 1. Dark
+           (n)   2. Darkness
 Wer - (adv) Again
 Wêrom - (interoggative) Why
 West - (n) West
