@@ -1,200 +1,218 @@
-___________                     __               ___________              .__  .__       .__     
-\_   _____/______ ___.__. _____|  | __           \_   _____/ ____    ____ |  | |__| _____|  |__  
- |    __) \_  __ <   |  |/  ___/  |/ /   ______   |    __)_ /    \  / ___\|  | |  |/  ___/  |  \ 
+___________                     __               ___________              .__  .__       .__
+\_   _____/______ ___.__. _____|  | __           \_   _____/ ____    ____ |  | |__| _____|  |__
+ |    __) \_  __ <   |  |/  ___/  |/ /   ______   |    __)_ /    \  / ___\|  | |  |/  ___/  |  \
  |     \   |  | \/\___  |\___ \|    <   /_____/   |        \   |  \/ /_/  >  |_|  |\___ \|   Y  \
  \___  /   |__|   / ____/____  >__|_ \           /_______  /___|  /\___  /|____/__/____  >___|  /
      \/           \/         \/     \/                   \/     \//_____/              \/     \/
-
-Al - (adv) Already
-Alfabet - (n) Alphabet
-Alle - (adj) All
-Alles - (n) Everything
-Barre - (v) To happen
-Befolkingstichtens - (n) Population density
-Beynfloedzje - (v) To influence
-Belje - (v) To call
-Bern - (n) Children
-Beskermje - (v) To protect
-Betelje - (v) To pay
-Betsjutte - (v) To mean
-Betsjutting - (n) Meaning
-Bytsje - (adj) Somewhat
-       in ~ - (adj) a bit
-Blikstiender - (interjection) Holy Shit
-Boarne - (n) Source
-Boartsje - (v) To play
-Boedisme - (n) Buddhism
-Boek - (n) Book
-Bôle - (n) Bread
-Bot - (adj) Very
-Brûke - (v) To use
-De - (article) The
-Dei - (n) Day
-Demografy- (n) Demographics
-Dêr - (n) There
-Dêrmei - (conj) Thus
-Dialekt - (n) Dialect
-Dyn - (adj) Your
-Dizze - (adj) This
-Drinke - (v) To drink
-Dû - (n) You
-Earne - (n) Somewhere
-Eilân - (n) Island
-Ek - (adv) also, too
-En - (conj) And
-Falle - (v) To fall
-Famke - (n) Girl
-Fan - (adj) Of
-Fansels - (adv) Obviously, of course, naturally, "yeah right"
-Fierder - (prep) Further
-Fierders - (conj) Furthermore
-Fyn - (adj) Fine
-Fine - (v) To find
-Foar - (adv) For, in front of, before
-Folslein - (adj) Completely, total
-Frou - (n) Woman
-Fuort - (prep) Away
-Fuortendalik - (adv) Immediately
-Gewykst - (adj) Clever, cunning, sly
-Giel - (adj) Yellow
-Gjin - (n) None, not
-Gjinien - (n) Nobody, no one, none
-Godstsjinsten - (n) Religion
-Goud - (n) Gold
-Gouden - (adj) Golden
-Grammatika - (n) Grammar
-Groep - (n) Group, gang
-Grûn - (n) Ground
-Grut - (adj) Big, great
-Hâlde - (v) To hold
-            ... fan - To love/like
-Har - (pn) Hers
-Harren - (pn) Theirs
-Hast - (adv) Almost
-Hawwe - (v) To have
-Hy - (pn) He
-Him - (pn) Him
-Hynder - (n) Horse
-Hindoeïsme - (n) Hinduism
-Hjerst - (n) Fall, autumn
-Hjoed - (n) Today
-Hwat - (interoggative) What
-Hûn - (n) Dog
-Hurd - (adj) Hard
-Hûs - (n) House
-Húsdokter - (n) 1. Family doctor
-                2. General practitioner
-Ien - (n) 1. One
-          2. Someone
-Ierdbei - (n) Strawberry
-IJsko - (n) Ice Cream
-Ik - (pn) I
-In - (article) A, an
-Ynfloed - (n) Influence
-Yntelligint - (adj) Apt, Intelligent
-Ynwenner - (n) Resident
-Islam - (n) Islam
-It - (article) 1. The
-     (pn)      2. It
-Ite - (v) To eat
-Iten - (n) Food, dinner
-Ja - (interjection) Yes
-Jaïnisme - (n) Jainism
-Jim - (pn) You (plural)
-Jo - (pn) You (respectful)
-Joadendom - (n) Judaism
-Jonkje - (n) Boy
-Keunst - (n) Art
-Kinne - (v) To be able to
-Klachten - (n) Complaint
-Ko - (n) Cow
-Komme - (v) To come
-Kryptofaluta - (n) Cryptocurrency
-Kristendom - (n) Christianity
-Lân - (n) 1. Land
-          2. Country
-Lânseigen - (n) Land owner
-          ~ taal - (n) Native language
-Leauwe - (n) Faith
-Let - (n) Late
-Likernôch - (conj) Likewise
-Lilk - (adj) Angry
-Literatuer - (n) Literature
-Lyts - (adj) Small, Little
-Man - (n) Man
-Mar - (conj) But
-Mei - (prep) With
-Meitsje - (v) To make
-My - (pn) Me
-Miljoen - (n) million
-Myn - (pn) Mine
-Minske - (n) Human (being)
-Moatte - (v) Must, to have to, should
-Muzyk - (n) Music
-Namme - (n) Name
-Natoerreligy - (n) Ethnic religion
-Neat - (n) None, nothing
-Nee - (interjection) No
-Nei - (prep) To
-Net - (adv, adj) Not
-Nije - (adj) New
-Nijsgjirrich - (adj) 1. Interesting
-                     2. Curious
-Noardwestlike - (adj) Northwestern
-Nocht - (n) Pleasure
-Nuver - (adj) Strange, odd
-Oant - (prep) Until, up to
-Oare - (adj) Other
-Of - (conj) Or
-Ôfbrând - (v) Burnt down
-Omgean - (v) To handle
-Op - (prep) On, up, upon
-Ophâlde - (v) To stop
-Pakke - (v) To pack
-Produsint - (n) Producer
-Provinsje - (n) Province
-Religy - (n) Religion
-Republyk - (n) Republic
-Rinne - (v) To run
-Sa - (adv) So
-See - (n) Sea
-Sy - (n) She
-Sikhisme - (n) Sikhism
-Syn - (adj) His
-Sjen - (v) To see
-Skyn - (n) Shine
-Skine - (v) To shine
-Skjin - (adj) Clean
-Skrapke - (n) Comma
-Skûlnamme - (n) Nickname
-Sleat - (n) Ditch
-Somtiden - (adv) Sometimes
-Stâd - (n) City
-Stadich - (adj) Slow
-Stadichoan - (adv) Slowly
-Stjerre - (v) To die
-Súd - (n) South
-Taal - (n) Language
-Tegearre - (adv) Together
-Tema - (n) Theme
-Ticht - (prep) Close, dense
-Tichtbefolke - (v) Densley populated
-Timpel - (n) Temple
-Tinke - (v) To think
-Tonge - (n) Tongue
-Tsiis - (n) Cheese
-Tsjin - (prep) Against
-Tsjuster - (adj) 1. Dark
-           (n)   2. Darkness
-Wer - (adv) Again
-Wêrom - (interoggative) Why
-West - (n) West
-Westfrysk - (adj) West Frisian
-West-Fryslân - (n) West Friesland
-Wetter - (n) Water
-Wêze - (v) To be
-Witte - (v) To know
-Wolkom - (interjection) Welcome
-Wolle - (v) To want
-Wrâld - (n) World
-Wurd - (n) Word
+   
+   Al - (adv) Already
+it Alfabet - (n) Alphabet
+   Alle - (adj) All
+it Alles - (n) Everything
+   Barre - (v) To happen
+de Befolkingstichtens - (n) Population density
+   Beynfloedzje - (v) To influence
+   Belje - (v) To call
+de Bern - (n) Children
+it Berteplak - (n) Birth place
+   Beskermje - (v) To protect
+   Betelje - (v) To pay
+   Betsjutte - (v) To mean
+de Betsjutting - (n) Meaning
+   Bidriuw - (n) Action
+   Bytsje - (adj) Somewhat
+          in ~ - (adj) a bit
+   Blikstiender - (interjection) Holy shit
+de Boarne - (n) Source
+   Boartsje - (v) To play
+it Boedisme - (n) Buddhism
+it Boek - (n) Book
+de Boerinne - (n) Farmer's wife
+de Bôle - (n) Bread
+   Bot - (adj) Very
+   Brûke - (v) To use
+-- De - (article) The
+de Dei - (n) Day
+de Demografy- (n) Demographics
+   Dêr - (n) There
+   Dêrmei - (conj) Thus
+it Dialekt - (n) Dialect
+   Dyn - (adj) Your
+   Dizze - (adj) This
+   Drinke - (v) To drink
+   Dû - (n) You
+   Earne - (n) Somewhere
+it Eilân - (n) Island
+   Ek - (adv) also, too
+   En - (conj) And
+   Falle - (v) To fall
+it Famke - (n) Girl
+   Fan - (adj) Of
+   Fansels - (adv) Obviously, of course, naturally, "yeah right"
+   Fierder - (prep) Further
+   Fierders - (conj) Furthermore
+   Fyn - (adj) Fine
+   Fine - (v) To find
+   Foar - (adv) For, in front of, before
+   Folslein - (adj) Completely, total
+   Fryslân - (n) Friesland
+de Frou - (n) Woman
+   Fuort - (prep) Away
+   Fuortendalik - (adv) Immediately
+it Geklei - (n) Complaint
+   Gewykst - (adj) Clever, cunning, sly
+   Giel - (adj) Yellow
+   Gjin - (n) None, not
+   Gjinien - (n) Nobody, no one, none
+de Godstsjinsten - (n) Religion
+de Goedens - (n) Goodness
+it Goud - (n) Gold
+   Gouden - (adj) Golden
+de Grammatika - (n) Grammar
+de Groep - (n) Group, gang
+de Grûn - (n) Ground
+   Grut - (adj) Big, great
+   Hâlde - (v) To hold
+               ... fan - To love/like
+   Har - (pn) Hers
+   Harren - (pn) Theirs
+   Hast - (adv) Almost
+   Hawwe - (v) To have
+   Hy - (pn) He
+   Him - (pn) Him
+it Hynder - (n) Horse
+it Hindoeïsme - (n) Hinduism
+de Hjerst - (n) Fall, autumn
+de Hjoed - (n) Today
+   Hwat - (interoggative) What
+de Hûn - (n) Dog
+   Hurd - (adj) Hard
+it Hûs - (n) House
+de Húsdokter - (n) 1. Family doctor
+                   2. General practitioner
+   Ien - (n) 1. One
+             2. Someone
+de Ierdbei - (n) Strawberry
+de Yettik - (n) Vinegar
+it IJsko - (n) Ice Cream
+   Ik - (pn) I
+   In - (article) A, an
+de Ynfloed - (n) Influence
+it Ingelân - (n) England
+   Yntelligint - (adj) Apt, Intelligent
+de Ynwenner - (n) Resident
+de Islam - (n) Islam
+-- It - (article) 1. The
+        (pn)      2. It
+   Ite - (v) To eat
+   Iten - (n) Food, dinner
+   Izer - (n) Iron
+   Izeren - (adj) Iron
+   Ja - (interjection) Yes
+it Jaïnisme - (n) Jainism
+   Jim - (pn) You (plural)
+   Jo - (pn) You (respectful)
+it Joadendom - (n) Judaism
+it Jonkje - (n) Boy
+de Keunst - (n) Art
+   Kinne - (v) To be able to
+de Klachten - (n) Complaint
+de Ko - (n) Cow
+   Komme - (v) To come
+de Kryptofaluta - (n) Cryptocurrency
+it Kristendom - (n) Christianity
+it Kwea - (n) Evil
+it Lân - (n) 1. Land
+ ~           2. Country
+de Lânseigen - (n) Land owner
+ ~           ~ taal - (n) Native language
+it Leauwe - (n) Faith
+de Let - (n) Late
+   Likernôch - (conj) Likewise
+   Lilk - (adj) Angry
+de Literatuer - (n) Literature
+   Lyts - (adj) Small, Little
+de Man - (n) Man
+   Mar - (conj) But
+   Mei - (prep) With
+   Meitsje - (v) To make
+   My - (pn) Me
+it Miljoen - (n) million
+   Myn - (pn) Mine
+de Minske - (n) Human (being)
+   Moatte - (v) Must, to have to, should
+de Molke - (n) Milk
+de Muzyk - (n) Music
+de Namme - (n) Name
+de Natoerreligy - (n) Ethnic religion
+   Neat - (n) None, nothing
+   Nee - (interjection) No
+   Nei - (prep) To
+   Net - (adv, adj) Not
+   Nije - (adj) New
+   Nijsgjirrich - (adj) 1. Interesting
+                        2. Curious
+   Noardwestlike - (adj) Northwestern
+it Nocht - (n) Pleasure
+   Nuver - (adj) Strange, odd
+   Oant - (prep) Until, up to
+   Oare - (adj) Other
+   Of - (conj) Or
+   Ôfbrând - (v) Burnt down
+   Omgean - (v) To handle
+it Onthâld - (n) Memory
+   Op - (prep) On, up, upon
+   Ophâlde - (v) To stop
+   Pakke - (v) To pack
+de Produsint - (n) Producer
+de Provinsje - (n) Province
+de Reamme - (n) Cream
+de Religy - (n) Religion
+de Republyk - (n) Republic
+   Rinne - (v) To run
+   Sa - (adv) So
+de See - (n) Sea
+   Sy - (n) She
+it Sikhisme - (n) Sikhism
+   Syn - (adj) His
+   Sjen - (v) To see
+de Skyn - (n) Shine
+   Skine - (v) To shine
+   Skjin - (adj) Clean
+it Skrapke - (n) Comma
+de Skûlnamme - (n) Nickname
+de Sleat - (n) Ditch
+   Somtiden - (adv) Sometimes
+de Stâd - (n) City
+   Stadich - (adj) Slow
+   Stadichoan - (adv) Slowly
+   Stjerre - (v) To die
+   Súd - (n) South
+de Taal - (n) Language
+de Teef - (n) Bitch
+   Tegearre - (adv) Together
+it Tema - (n) Theme
+   Ticht - (prep) Close, dense
+   Tichtbefolke - (v) Densley populated
+de Timpel - (n) Temple
+   Tinke - (v) To think
+de Tonge - (n) Tongue
+de Tsiis - (n) Cheese
+   Tsjin - (prep) Against
+   Tsjuster - (adj) 1. Dark
+it            (n)   2. Darkness
+   Wer - (adv) Again
+   Wêrom - (interoggative) Why
+it West - (n) West
+   Westfrysk - (adj) West Frisian
+it West-Fryslân - (n) West Friesland
+it Wetter - (n) Water
+   Wêze - (v) To be
+de Wierheid - (n) Truth
+it Wiif - (n) Wife
+de Witnis - (n) Knowledge
+   Witte - (v) To know
+   Wolkom - (interjection) Welcome
+   Wolle - (v) To want
+de Wrâld - (n) World
+it Wurd - (n) Word
