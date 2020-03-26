@@ -19,6 +19,7 @@ it Berteplak - (n) Birth place
    Betelje - (v) To pay
    Betsjutte - (v) To mean
 de Betsjutting - (n) Meaning
+   By - (prep) By
    Bidriuw - (n) Action
    Bytsje - (adj) Somewhat
           in ~ - (adj) a bit
@@ -39,11 +40,15 @@ de Demografy- (n) Demographics
 it Dialekt - (n) Dialect
    Dyn - (adj) Your
    Dizze - (adj) This
+   Dogge- (v) To do
    Drinke - (v) To drink
    Dû - (n) You
    Earne - (n) Somewhere
+   Efkes - (adv) For a moment
 it Eilân - (n) Island
    Ek - (adv) also, too
+   Elkenien - (pn) Everyone
+   Eltsenien - (pn) Everyone
    En - (conj) And
    Falle - (v) To fall
 it Famke - (n) Girl
@@ -55,6 +60,7 @@ it Famke - (n) Girl
    Fine - (v) To find
    Foar - (adv) For, in front of, before
    Folslein - (adj) Completely, total
+   Forgees - (adj) Free
    Fryslân - (n) Friesland
 de Frou - (n) Woman
    Fuort - (prep) Away
@@ -72,9 +78,11 @@ de Grammatika - (n) Grammar
 de Groep - (n) Group, gang
 de Grûn - (n) Ground
    Grut - (adj) Big, great
+it Haadwurd - (n) Noun
    Hâlde - (v) To hold
                ... fan - To love/like
    Har - (pn) Hers
+   Harkje - (v) To listen
    Harren - (pn) Theirs
    Hast - (adv) Almost
    Hawwe - (v) To have
@@ -97,6 +105,7 @@ de Yettik - (n) Vinegar
 it IJsko - (n) Ice Cream
    Ik - (pn) I
    In - (article) A, an
+   Yn - (prep) In
 de Ynfloed - (n) Influence
 it Ingelân - (n) England
    Yntelligint - (adj) Apt, Intelligent
@@ -128,12 +137,17 @@ de Lânseigen - (n) Land owner
  ~           ~ taal - (n) Native language
 it Leauwe - (n) Faith
 de Let - (n) Late
+it Libben - (n) Life
+   Libje - (v) To live
    Likernôch - (conj) Likewise
    Lilk - (adj) Angry
 de Literatuer - (n) Literature
    Lyts - (adj) Small, Little
+   Lústerje - (v) 1. To listen
+                  2. To whisper
 de Man - (n) Man
    Mar - (conj) But
+de     - (n) Lake
    Mei - (prep) With
    Meitsje - (v) To make
    My - (pn) Me
@@ -142,6 +156,7 @@ it Miljoen - (n) million
 de Minske - (n) Human (being)
    Moatte - (v) Must, to have to, should
 de Molke - (n) Milk
+de Muorre - (n) Wall
 de Muzyk - (n) Music
 de Namme - (n) Name
 de Natoerreligy - (n) Ethnic religion
@@ -158,6 +173,7 @@ it Nocht - (n) Pleasure
    Oant - (prep) Until, up to
    Oare - (adj) Other
    Of - (conj) Or
+   Ôfbliuwe - (v) To stay away
    Ôfbrând - (v) Burnt down
    Omgean - (v) To handle
 it Onthâld - (n) Memory
@@ -165,6 +181,7 @@ it Onthâld - (n) Memory
    Ophâlde - (v) To stop
    Pakke - (v) To pack
 de Produsint - (n) Producer
+it Proto-Yndo-Jeropeesk - (n) Proto-Indo-European
 de Provinsje - (n) Province
 de Reamme - (n) Cream
 de Religy - (n) Religion
@@ -186,21 +203,28 @@ de Sleat - (n) Ditch
 de Stâd - (n) City
    Stadich - (adj) Slow
    Stadichoan - (adv) Slowly
+it Stien - (n) Stone
    Stjerre - (v) To die
    Súd - (n) South
+de Tafal - (n) Coincidence
+de Tafallich - (n) Chance
 de Taal - (n) Language
 de Teef - (n) Bitch
    Tegearre - (adv) Together
 it Tema - (n) Theme
    Ticht - (prep) Close, dense
    Tichtbefolke - (v) Densley populated
+   Tige - (Adj) Very
 de Timpel - (n) Temple
    Tinke - (v) To think
+   Tôgje - (v) To carry
 de Tonge - (n) Tongue
 de Tsiis - (n) Cheese
    Tsjin - (prep) Against
    Tsjuster - (adj) 1. Dark
 it            (n)   2. Darkness
+   Útstoarn - (adj) Extinct
+it Webside - (n) Website
    Wer - (adv) Again
    Wêrom - (interoggative) Why
 it West - (n) West
@@ -209,10 +233,13 @@ it West-Fryslân - (n) West Friesland
 it Wetter - (n) Water
    Wêze - (v) To be
 de Wierheid - (n) Truth
+   Wy - (pn) We
+   Wichtich - (adj) Important
 it Wiif - (n) Wife
 de Witnis - (n) Knowledge
    Witte - (v) To know
    Wolkom - (interjection) Welcome
-   Wolle - (v) To want
+   Wolle - (v) 1. To want
+               2. To will (as in future)
 de Wrâld - (n) World
 it Wurd - (n) Word
