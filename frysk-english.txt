@@ -6,13 +6,16 @@ ___________                     __               ___________              .__  .
      \/           \/         \/     \/                   \/     \//_____/              \/     \/
    
    Al - (adv) Already
+   Âld - (adj) Old
 it Alfabet - (n) Alphabet
    Alle - (adj) All
 it Alles - (n) Everything
    Barre - (v) To happen
+   Bedriuw - (n) Company
 de Befolkingstichtens - (n) Population density
    Beynfloedzje - (v) To influence
    Belje - (v) To call
+           See also skilje
 de Bern - (n) Children
 it Berteplak - (n) Birth place
    Beskermje - (v) To protect
@@ -23,7 +26,7 @@ de Betsjutting - (n) Meaning
    Bidriuw - (n) Action
    Bytsje - (adj) Somewhat
           in ~ - (adj) a bit
-   Blikstiender - (interjection) Holy shit
+   Blikstiender - (interjection) Holy shit, Bloody Hell
 de Boarne - (n) Source
    Boartsje - (v) To play
 it Boedisme - (n) Buddhism
@@ -65,6 +68,7 @@ it Famke - (n) Girl
 de Frou - (n) Woman
    Fuort - (prep) Away
    Fuortendalik - (adv) Immediately
+   Gean - (v) To go
 it Geklei - (n) Complaint
    Gewykst - (adj) Clever, cunning, sly
    Giel - (adj) Yellow
@@ -86,6 +90,7 @@ it Haadwurd - (n) Noun
    Harren - (pn) Theirs
    Hast - (adv) Almost
    Hawwe - (v) To have
+   Helpe - (v) To help
    Hy - (pn) He
    Him - (pn) Him
 it Hynder - (n) Horse
@@ -102,7 +107,7 @@ de Húsdokter - (n) 1. Family doctor
              2. Someone
 de Ierdbei - (n) Strawberry
 de Yettik - (n) Vinegar
-it IJsko - (n) Ice Cream
+de IJsko - (n) Ice Cream
    Ik - (pn) I
    In - (article) A, an
    Yn - (prep) In
@@ -136,7 +141,7 @@ it Lân - (n) 1. Land
 de Lânseigen - (n) Land owner
  ~           ~ taal - (n) Native language
 it Leauwe - (n) Faith
-de Let - (n) Late
+   Let - (n) Late
 it Libben - (n) Life
    Libje - (v) To live
    Likernôch - (conj) Likewise
@@ -154,6 +159,7 @@ de     - (n) Lake
 it Miljoen - (n) million
    Myn - (pn) Mine
 de Minske - (n) Human (being)
+de Moarn - (n) Tomorrow
    Moatte - (v) Must, to have to, should
 de Molke - (n) Milk
 de Muorre - (n) Wall
@@ -169,6 +175,7 @@ de Natoerreligy - (n) Ethnic religion
                         2. Curious
    Noardwestlike - (adj) Northwestern
 it Nocht - (n) Pleasure
+   Noflike - (adj) Nice
    Nuver - (adj) Strange, odd
    Oant - (prep) Until, up to
    Oare - (adj) Other
@@ -193,6 +200,7 @@ de See - (n) Sea
 it Sikhisme - (n) Sikhism
    Syn - (adj) His
    Sjen - (v) To see
+   Skilje - (v) To call
 de Skyn - (n) Shine
    Skine - (v) To shine
    Skjin - (adj) Clean
@@ -203,7 +211,7 @@ de Sleat - (n) Ditch
 de Stâd - (n) City
    Stadich - (adj) Slow
    Stadichoan - (adv) Slowly
-it Stien - (n) Stone
+de Stien - (n) Stone
    Stjerre - (v) To die
    Súd - (n) South
 de Tafal - (n) Coincidence
@@ -221,10 +229,14 @@ de Timpel - (n) Temple
 de Tonge - (n) Tongue
 de Tsiis - (n) Cheese
    Tsjin - (prep) Against
+   Tsjoch - (exclamation) Cheers
    Tsjuster - (adj) 1. Dark
 it            (n)   2. Darkness
+   Út - (adv) Out
    Útstoarn - (adj) Extinct
-it Webside - (n) Website
+de Webside - (n) Website
+de Wei - (n) 1. Way
+             2. Road
    Wer - (adv) Again
    Wêrom - (interoggative) Why
 it West - (n) West
@@ -236,6 +248,7 @@ de Wierheid - (n) Truth
    Wy - (pn) We
    Wichtich - (adj) Important
 it Wiif - (n) Wife
+   Wille - (v) To have pleasure/fun
 de Witnis - (n) Knowledge
    Witte - (v) To know
    Wolkom - (interjection) Welcome
